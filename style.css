@@ -1,0 +1,67 @@
+.bd{
+    background-color:antiquewhite ;
+}
+
+.card{
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: brown;
+    margin: 50px ;
+    background-color:blanchedalmond;
+
+}
+.sec1{
+    height:40% ;
+    
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-image: url(https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+
+}
+
+.sec2{
+    margin-top: 20px;
+    padding-left: 10px;
+   
+
+
+}
+.cardtag{
+
+    background-color: aqua;
+    padding: 2px 15px ;
+    color: white;
+    border-radius: 20px;
+
+}
+.cardtitle{
+
+}
+
+.cardpara{
+    font-size: 10px;
+}
+.profile{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.bio{
+
+}
+.age{
+    color: burlywood;
+    font-size: 10px;
+}
+.main{
+    display: flex;
+    align-items: center; 
+    height: 100vh;
+    justify-content: center;
+}
